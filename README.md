@@ -12,7 +12,7 @@
 ### 🧠 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="32" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="32" alt="rust logo" /> (rust logo here)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo" />
   <img width="12" />
@@ -37,8 +37,6 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
