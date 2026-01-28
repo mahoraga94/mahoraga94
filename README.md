@@ -1,75 +1,76 @@
-# SAY NO TO AI!!!  
-*(Because real creativity comes from human code!)*
+<h2 align="left">Hi 👋! My name is Mahoraga and I'm a systems programmer, from India</h2>
 
 ---
 
-## Hey there, I'm Skub! 👋  
-### *The Human Behind the Code (and the Chaos)*  
-
-Welcome to my corner of the digital circus, where code contorts into wild creations and bugs tremble at the sound of my keyboard. I’m a chai‑fuelled programmer from India who builds tools, games, and systems so quirky they practically write themselves (but don’t tell them that).
-
----
-
-## 🎩 About Me  
-
-- **🌏 Location**: Somewhere between “just one more line” and “why won’t this compile?”—India edition.  
-- **🤓 Philosophy**: No dark sorcery—only straightforward code, sprinkled with ridiculous comments and the occasional rubber duck.  
-- **🛠️ Mastery & Mayhem**:  
-  - **Mastered**: Rust (fearless memory taming), C (because masochism is a feature).  
-  - **Learning**: Zig (to confuse even myself), Haskell (for my own amusement).  
-- **🐧 OS Adventures**:  
-  - Juggling NixOS and EndeavourOS like flaming torches—dreaming of NixOS monogamy one day.  
-- **🎯 Side Quests**:  
-  - Building shells, crafting mini‑languages, and blaming the compiler for my life choices.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahoraga94&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahoraga94&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+### 🧠 Languages & Tools
 
-| Category          | Tools & Languages                    |
-| ----------------- | ------------------------------------ |
-| **Languages**     | Rust · C# · Python · C · Haskell  |
-| **Editors**       | VSCode        |
-| **Terminal Magic**| fish · `alias cool="cargo break this code"` |
-
----
-
-## 🤩 Featured Shenanigans  
-
-| Project | Description |
-| ------- | ----------- |
-| [**sip**](https://github.com/skubed0007/sip)   | A systems‑language so zany it might juggle your semicolons.  |
-| [**xinux**](https://github.com/skubed0007/xinux) | My minimal bash‑compatible shell, now with extra sass.      |
-| [**neit**](https://github.com/oxumlabs/neit)    | A programmable blank slate. (AKA “extreme minimalism.”)     |
-| [**ven**](https://github.com/oxumlabs/ven)      | IR‑only language: because less is more… until it breaks.    |
-
-*More projects incoming as I break things, fix them, and break them again—rinse & repeat!*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="32" alt="rust logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="32" alt="ocaml logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="32" alt="nix logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo" />
+</div>
 
 ---
 
-## 🔮 What I’m Scheming Next  
+### 🌐 Socials
 
-- **🤖 Toolsmithing**: Inventing utilities that make your life easier—and mine more chaotic.  
-- **🎮 Game Dev**: Someday I’ll finish that rogue‑like engine in Rust. Someday…  
-- **💥 Custom libc “sipc”**: Because why settle for glibc when you can sipc?  
-
----
-
-## 📊 My GitHub Stats  
-
-<!-- Top Languages Card -->
-[![Joy’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=skubed0007&layout=compact&langs_count=6&theme=gruvbox-dark&hide=HTML,Shell)](https://github.com/skubed0007)
+<div align="left">
+  <a href="https://instagram.com/mahoraga94">
+    <img src="https://img.shields.io/badge/Instagram-mahoraga94-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-mahoraga94-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+  </a>
+</div>
 
 ---
 
-## ✉️ Let’s Connect  
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+## 🚀 Projects Worth Mentioning
+
+### 🔧 [xasm-rs](https://github.com/mahoraga94/xasm-rs)
+An **assembly generator** written in Rust, with long-term plans to evolve into a full **compiler backend**.
+
+### ❄️ [negma](https://github.com/mahoraga94/negma)
+A **NixOS management tool** that centralizes commonly used commands into one sane interface.
+
+### 🎮 [ruty](https://github.com/mahoraga94/ruty)
+A **Rust game engine** built on top of `macroquad`, focused on simplicity and experimentation.
+
+---
+
+## 🔮 What I’m Scheming Next
+
+- **🤖 Toolsmithing** — small, sharp utilities that solve real pain points  
+- **🎮 Game Dev** — a rogue-like engine in Rust (this time for real)  
+- **💥 Custom libc “sipc”** — because glibc is a suggestion, not a law  
+
+---
+
+## ✉️ Let’s Connect
 
 - **Email**: [skub007@proton.me](mailto:skub007@proton.me)  
-- **GitHub**: [github.com/skubed0007](https://github.com/skubed0007)  
+- **GitHub**: https://github.com/mahoraga94  
 
 ---
 
-> “Code, caffeinate, repeat.”
+> *“Code, caffeinate, repeat.”*
 
-"When you're hanging around trash long enough, you start to smell like it."
-— Bennett Foddy, Getting Over It
+> *“When you're hanging around trash long enough, you start to smell like it.”*  
+— Bennett Foddy, **Getting Over It**
