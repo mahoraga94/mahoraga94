@@ -1,63 +1,90 @@
-<h2 align="left">Hi 👋! My name is Mahoraga and I'm a systems programmer, from India</h2>
+# Mahoraga
+
+Hi. I’m **Mahoraga** — a programmer from **India**.  
+I build **systems software** because I like being close to the machine, where abstractions are earned, not handed out.
+
+I care about correctness, simplicity, and tools that do one thing well.  
+I spend most of my time thinking about compilers, low-level tooling, operating systems, and language design.
+
+I genuinely **love Rust**, and I have a deep appreciation for **Haskell** and **OCaml** for how they force clarity of thought.  
+I do not like AI hype. I prefer tools that are understandable, inspectable, and honest.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahoraga94&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahoraga94&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
-</div>
+## Philosophy
+
+I try to live and work by **Stoic principles**.
+
+Stoicism, at its core, is about:
+- Focusing only on what you can control  
+- Accepting what you cannot  
+- Acting with reason, discipline, and compassion  
+
+It teaches calm in chaos, humility in success, and dignity in failure.  
+It also teaches something often missed: **to treat all people with fairness and goodwill**, even when the world does not return the favor.
+
+I try to write code the same way — simple, deliberate, and resilient.
 
 ---
 
-### 🧠 Languages & Tools
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="32" alt="rust logo" /> (rust logo here)
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="32" alt="ocaml logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="32" alt="nix logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo" />
-</div>
+- **Languages**:  
+  - Rust  
+  - Haskell  
+  - OCaml  
+  - C  
 
----
+- **Systems & Tooling**:  
+  - Linux  
+  - Nix / NixOS  
+  - Low-level tooling & compilers  
 
-### 🌐 Socials
-
-<div align="left">
-  <a href="https://instagram.com/mahoraga94">
-    <img src="https://img.shields.io/badge/Instagram-mahoraga94-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-mahoraga94-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
-</div>
+- **Interests**:  
+  - Compiler backends  
+  - Systems utilities  
+  - Runtime and libc design  
+  - Game engines (for fun and suffering)
 
 ---
 
----
+## Projects Worth Mentioning
 
-## 🚀 Projects Worth Mentioning
+### xasm-rs
+An **assembly generator** written in Rust.  
+Long-term goal: evolve it into a **compiler backend** with explicit control over codegen.
 
-### 🔧 [xasm-rs](https://github.com/mahoraga94/xasm-rs)
-An **assembly generator** written in Rust, with long-term plans to evolve into a full **compiler backend**.
-
-### ❄️ [negma](https://github.com/mahoraga94/negma)
-A **NixOS management tool** that centralizes commonly used commands into one sane interface.
-
-### 🎮 [ruty](https://github.com/mahoraga94/ruty)
-A **Rust game engine** built on top of `macroquad`, focused on simplicity and experimentation.
+Repository: https://github.com/mahoraga94/xasm-rs
 
 ---
 
-## 🔮 What I’m Scheming Next
+### negma
+A **NixOS management tool** that collects commonly used commands into a single, consistent interface.  
+Built to reduce friction when working with declarative systems.
 
-- **🤖 Toolsmithing** — small, sharp utilities that solve real pain points  
-- **🎮 Game Dev** — a rogue-like engine in Rust (this time for real)  
-- **💥 Custom libc “sipc”** — because glibc is a suggestion, not a law  
+Repository: https://github.com/mahoraga94/negma
+
+---
+
+### ruty
+A **game engine in Rust**, built using `macroquad`.  
+Mostly experimental, partly educational, occasionally fun.
+
+Repository: https://github.com/mahoraga94/ruty
+
+---
+
+## Contact
+
+- **Instagram**: @mahoraga94  
+- **Discord**: mahoraga94  
+
+I usually reply pretty fast, but I enjoy conversations about systems, programming languages, philosophy, and why simple things are often the hardest to build.
+
+---
+
+> “Waste no more time arguing what a good person should be. Be one.”  
+— Marcus Aurelius- **🎮 Game Dev** — a rogue-like engine in Rust (this time for real)  
 
 ---
 
