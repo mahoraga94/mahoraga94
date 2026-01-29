@@ -76,7 +76,7 @@ Repository: https://github.com/mahoraga94/ruty
 
 ## Contact
 
-- **Instagram**: @mahoraga94  
+- **Instagram**: @mahoraga.94  
 - **Discord**: mahoraga94  
 
 I usually reply pretty fast, but I enjoy conversations about systems, programming languages, philosophy, and why simple things are often the hardest to build.
