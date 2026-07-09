@@ -9,6 +9,8 @@ I spend most of my time thinking about compilers, low-level tooling, operating s
 I genuinely **love Rust**, and I have a deep appreciation for **Haskell** and **OCaml** for how they force clarity of thought.  
 I do not like AI hype. I prefer tools that are understandable, inspectable, and honest.
 
+Website: https://divinewheel.bgng.io
+
 ---
 
 ## Philosophy
